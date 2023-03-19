@@ -47,7 +47,7 @@ export const ContactForm = () => {
    }
 
    setName('');
-      setNumber('');
+   setNumber('');
  };
   //  const contact = {
   //    name,
